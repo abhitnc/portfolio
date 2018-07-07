@@ -8,7 +8,7 @@ hr.star-bright {
 #main-container {
 	padding: 1em;
   margin-bottom: 3.4em;
-  background-color: #c1f1f1; }
+  background-color: #c1c1f1; }
 
 .section-heading {
 	font-family: "Times New Roman", Times, serif;
@@ -126,7 +126,7 @@ header img {
 
 @media screen and (min-width: 30rem) {
   #profile {
-    line-height: 2;
+    line-height: 3;
     letter-spacing: 0.2rem; } }
 
 /* Styles for navigation menu */
@@ -138,7 +138,7 @@ header img {
 
 @media screen and (max-width: 30rem) {
   .navbar {
-    width: 40vw;
+    width: 45vw;
     left: 55vw; } }
 
 .navbar .nav-link {
@@ -148,8 +148,8 @@ header img {
   text-transform: lowercase;
   -webkit-transition-property: all;
   transition-property: all;
-  -webkit-transition-duration: 0.6s;
-          transition-duration: 0.6s; }
+  -webkit-transition-duration: 0.7s;
+          transition-duration: 0.7s; }
 
 .navbar .nav-link:hover {
   -webkit-transform: scale(1.07);
